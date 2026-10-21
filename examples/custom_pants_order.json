@@ -1,0 +1,13 @@
+{
+  "order_id": "TPP-EXAMPLE-001",
+  "fit_preference": "tapered",
+  "fabric": "power stretch cotton",
+  "measurements_cm": {
+    "waist": 82,
+    "hip": 98,
+    "thigh": 58,
+    "inseam": 74,
+    "outseam": 102,
+    "rise": 27
+  }
+}
